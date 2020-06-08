@@ -1,4 +1,6 @@
 # 算法
 
 #### 排序算法
-+ 归并排序 (Merge Sort)
++ 排序 (Sort)
+    + 归并排序 (Merge Sort)
+    + 快速排序 (Quick Sort)
